@@ -30,3 +30,5 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-FFCA28?style=flat-square&logo=figma&logoColor=white)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasims07&label=Profile%20views&color=0e75b6&style=flat" alt="Mohmadkasam" /> </p>
