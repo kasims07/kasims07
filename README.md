@@ -33,5 +33,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-FFCA28?style=flat-square&logo=figma&logoColor=white)
+![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasims07&label=Profile%20views&color=0e75b6&style=flat" alt="Mohmadkasam" /> </p>
