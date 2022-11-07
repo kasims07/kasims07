@@ -18,7 +18,8 @@
 👨‍💻 I'm passionate about Mobile Dev, ui/ux, App designing, Algorithm & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- Fresher
+- [Flutter Developer (KoolMind Technolab)](https://koolmind.in/) - Build a smooth and user Friendly Mobile app for Android and IOS, with good performance and fast reloading with modern architecture. 
+
 
 ### Things I code with 🚀
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
