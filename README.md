@@ -18,7 +18,9 @@
 👨‍💻 I'm passionate about Mobile Dev, ui/ux, App designing, Algorithm & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Flutter Developer (KoolMind Technolab)](https://koolmind.in/) - Build a smooth and user Friendly Mobile app for Android and IOS, with good performance and fast reloading with modern architecture. 
+- [Sr.Flutter Developer (ZestBrains)](https://www.zestbrains.com/) - Lead the development of high-performance, scalable mobile applications for Android and iOS using Flutter, focusing on modern architecture and seamless user experiences. Optimize app performance, implement best practices, and ensure fast reloads for efficient development workflows.
+  
+- [Flutter Developer (KoolMind Technolab)](https://koolmind.in/) [2022-2024]- Build a smooth and user Friendly Mobile app for Android and IOS, with good performance and fast reloading with modern architecture. 
 
 
 ### Things I code with 🚀
