@@ -13,7 +13,7 @@
 <br />
 
 ### About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/>
-💼 I'm Flutter Developer. </br>
+💼 I'm Full Stack Developer | Flutter Mobile Apps & Node.js Backends. </br>
 🎓 I have a Bachelor of Engineering Degree in Information Technology with CGPI 8.5 at Gujrat Technical University 🏫. </br>
 👨‍💻 I'm passionate about Mobile Dev, ui/ux, App designing, Algorithm & I enjoy learning new things. </br>
 
